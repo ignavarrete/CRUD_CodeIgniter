@@ -1,0 +1,70 @@
+CRITICAL - 2023-01-22 00:04:02 --> Call to undefined method App\Models\InformacionHistoricaModel::actualizar
+in SYSTEMPATH\Model.php on line 840.
+ 1 APPPATH\Controllers\InformacionHistorica.php(81): CodeIgniter\Model->__call('actualizar', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\InformacionHistorica->actualizar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InformacionHistorica))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-22 00:29:19 --> Call to undefined method App\Models\InformacionHistoricaModel::actualizar
+in SYSTEMPATH\Model.php on line 840.
+ 1 APPPATH\Controllers\InformacionHistorica.php(81): CodeIgniter\Model->__call('actualizar', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\InformacionHistorica->actualizar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InformacionHistorica))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-22 00:29:55 --> Call to undefined method App\Models\InformacionHistoricaModel::actualizar
+in SYSTEMPATH\Model.php on line 840.
+ 1 APPPATH\Controllers\InformacionHistorica.php(81): CodeIgniter\Model->__call('actualizar', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\InformacionHistorica->actualizar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InformacionHistorica))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-22 00:37:27 --> Call to undefined method App\Models\InformacionHistoricaModel::actualizar
+in SYSTEMPATH\Model.php on line 840.
+ 1 APPPATH\Controllers\InformacionHistorica.php(81): CodeIgniter\Model->__call('actualizar', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\InformacionHistorica->actualizar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InformacionHistorica))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-22 00:45:54 --> Call to undefined method App\Models\InformacionHistoricaModel::actualizar
+in SYSTEMPATH\Model.php on line 840.
+ 1 APPPATH\Controllers\InformacionHistorica.php(81): CodeIgniter\Model->__call('actualizar', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\InformacionHistorica->actualizar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InformacionHistorica))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-22 00:51:53 --> Call to undefined method App\Models\InformacionHistoricaModel::actualizar
+in SYSTEMPATH\Model.php on line 840.
+ 1 APPPATH\Controllers\InformacionHistorica.php(81): CodeIgniter\Model->__call('actualizar', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\InformacionHistorica->actualizar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InformacionHistorica))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-22 01:17:18 --> Call to undefined method App\Models\InformacionHistoricaModel::actualizar
+in SYSTEMPATH\Model.php on line 840.
+ 1 APPPATH\Controllers\InformacionHistorica.php(81): CodeIgniter\Model->__call('actualizar', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\InformacionHistorica->actualizar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InformacionHistorica))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-22 01:19:40 --> Call to undefined method App\Models\InformacionHistoricaModel::actualizar
+in SYSTEMPATH\Model.php on line 840.
+ 1 APPPATH\Controllers\InformacionHistorica.php(81): CodeIgniter\Model->__call('actualizar', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\InformacionHistorica->actualizar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InformacionHistorica))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-22 01:21:06 --> Call to undefined method App\Models\InformacionHistoricaModel::actualizar
+in SYSTEMPATH\Model.php on line 840.
+ 1 APPPATH\Controllers\InformacionHistorica.php(81): CodeIgniter\Model->__call('actualizar', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\InformacionHistorica->actualizar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InformacionHistorica))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-22 01:21:25 --> Call to undefined method App\Models\InformacionHistoricaModel::actualizar
+in SYSTEMPATH\Model.php on line 840.
+ 1 APPPATH\Controllers\InformacionHistorica.php(81): CodeIgniter\Model->__call('actualizar', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\InformacionHistorica->actualizar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InformacionHistorica))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
